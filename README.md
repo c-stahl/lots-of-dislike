@@ -9,10 +9,6 @@
 - Yarn (`yarn start`)
 - NPM (`npm start`)
 
-## Test with:
-- Yarn (`yarn test`)
-- NPM (`npm test`)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
