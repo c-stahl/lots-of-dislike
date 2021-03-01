@@ -1,4 +1,4 @@
-# TODO: Name of application here
+# Lots of Dislike: a list of unpopular parking lots
 
 ## Initial setup with:
 - Yarn (`yarn install`)
